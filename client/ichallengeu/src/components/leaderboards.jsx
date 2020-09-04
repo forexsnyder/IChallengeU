@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-function Landingpage() {
+function Leaderboards() {
   return (
     <div>
 
@@ -10,4 +10,4 @@ function Landingpage() {
   );
 }
 
-export default Landingpage;
+export default Leaderboards;
