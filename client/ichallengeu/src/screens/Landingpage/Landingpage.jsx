@@ -14,6 +14,7 @@ function Landingpage() {
       <Competitions />
       <Comments />
       <CurrentComp />
+      <button className="new-comp-button">Create a New Competition</button>
 
     </div>
   );
