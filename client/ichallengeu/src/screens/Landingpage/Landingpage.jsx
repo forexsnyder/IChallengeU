@@ -10,11 +10,19 @@ import CurrentComp from '../CurrentComp/CurrentComp'
 function Landingpage() {
   return (
     <div>
-      <Leaderboards />
-      <Competitions />
+      <div>
       <Comments />
+      </div>
+      <div>
+      <Leaderboards />
+      </div>
+      <div>
       <CurrentComp />
+      </div>
       <button className="new-comp-button">Create a New Competition</button>
+      <div>
+      <Competitions />
+      </div>
 
     </div>
   );

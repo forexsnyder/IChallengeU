@@ -2,11 +2,14 @@ import React from 'react';
 
 
 function Comments() {
+//get api request
+
+
   return (
     <div>
-      <Leaderboards />
-      <Competitions />
-      <CurrentComp />
+      <div>
+        <h1>This is the comment section.</h1>
+      </div>
 
 
 

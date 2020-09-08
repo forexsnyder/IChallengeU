@@ -5,9 +5,10 @@ import './CurrentComp.css'
 
 
 function CurrentComp() {
+  //your current comeptitions
   return (
     <div classname="big-div">
-     
+     <h2>Challenges you are currently competing in. </h2>
 
 
     </div>
